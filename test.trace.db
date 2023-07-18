@@ -1,0 +1,38 @@
+2023-07-13 10:07:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CDMAXNUMBER" not found (this database is empty); SQL statement:
+SELECT COUNT(商品No最終履歴) FROM CDmaxNumber [42104-210]
+2023-07-13 10:07:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CDMAXNUMBER" not found (this database is empty); SQL statement:
+select * from CDmaxNumber [42104-210]
+2023-07-13 10:09:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: テーブル "CDMAXNUMBER" が見つかりません
+Table "CDMAXNUMBER" not found; SQL statement:
+SELECT COUNT(商品No最終履歴) FROM CDmaxNumber [42102-210]
+2023-07-13 10:09:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: テーブル "CDMAXNUMBER" が見つかりません
+Table "CDMAXNUMBER" not found; SQL statement:
+select * from CDmaxNumber [42102-210]
+2023-07-13 10:38:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: テーブル "CDMAXNUMBER" が見つかりません
+Table "CDMAXNUMBER" not found; SQL statement:
+SELECT COUNT(商品No最終履歴) FROM CDmaxNumber [42102-210]
+2023-07-13 10:38:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: テーブル "CDMAXNUMBER" が見つかりません
+Table "CDMAXNUMBER" not found; SQL statement:
+select * from CDmaxNumber [42102-210]
+2023-07-13 10:41:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: テーブル "CDMAXNUMBER" が見つかりません
+Table "CDMAXNUMBER" not found; SQL statement:
+SELECT COUNT(商品No最終履歴) FROM CDmaxNumber [42102-210]
+2023-07-13 10:41:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: テーブル "CDMAXNUMBER" が見つかりません
+Table "CDMAXNUMBER" not found; SQL statement:
+select * from CDmaxNumber [42102-210]
+2023-07-13 10:45:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: テーブル "CDMAXNUMBER" が見つかりません
+Table "CDMAXNUMBER" not found; SQL statement:
+SELECT COUNT(商品No最終履歴) FROM CDmaxNumber [42102-210]
+2023-07-13 10:45:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: テーブル "CDMAXNUMBER" が見つかりません
+Table "CDMAXNUMBER" not found; SQL statement:
+select * from CDmaxNumber [42102-210]
