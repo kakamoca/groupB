@@ -19,6 +19,9 @@ public class AccessDB2 {
 	private String password;
 	
 	private AccessDB2() {
+		
+		// メモです（映るかな）
+		
 		url = "jdbc:postgresql://localhost:5432/postgres";
 		user = "postgres";
 		password = "postgrestest";
