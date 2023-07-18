@@ -3,6 +3,7 @@ package jp.gui;
 import java.awt.BorderLayout;
 
 // メモしてみます（Git連携確認）
+// もう一回メモしてみます（Git連携確認）
 
 import java.awt.Color;
 import java.awt.GridBagConstraints;
