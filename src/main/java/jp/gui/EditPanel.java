@@ -1,6 +1,9 @@
 package jp.gui;
 
 import java.awt.BorderLayout;
+
+// メモしてみます
+
 import java.awt.Color;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
